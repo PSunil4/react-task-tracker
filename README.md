@@ -15,7 +15,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `npm run server`
-Runs the json-server to mock backend
+Runs the json-server (http://localhost:5000) to mock backend
 
 ### `npm test`
 
